@@ -1,2 +1,2 @@
 # 0g-node-deployment
-0G Node Deployment and Documentation
+Deployment Scripts and Documentation for 0G Data Availability Node
